@@ -29,3 +29,6 @@ htmlcov/
 .direnv
 
 .github/**
+
+./FSND-DeployEnv
+FSND-DeployEnv/
